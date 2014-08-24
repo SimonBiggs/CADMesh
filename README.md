@@ -93,7 +93,7 @@ Additionally, download VCGLIB (you can find more information about acquiring VCG
     # CADMesh latest dev branch
     git clone https://github.com/christopherpoole/CADMesh.git
 
-    cd cadmesh/
+    cd CADMesh/
     mkdir build
     cd build
 
