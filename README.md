@@ -75,10 +75,11 @@ The following shows basic default usage for cadmesh in a UserDetectorConstructio
 
 # Dependencies
 A working installation of the folowing libraries or packages is required:
- * GEANT4
+ * GEANT4 (4.9.6)
  * [ASSIMP](http://assimp.sourceforge.net/) (default, optional with VCGLIB)
+  * `sudo apt-get install libassimp-dev`
  * VCGLIB (optional)
- * TETGEN (optional)
+ * [TETGEN1.4.3](http://opensees.berkeley.edu/WebSVN/filedetails.php?repname=OpenSees&path=%2Ftrunk%2FOTHER%2Ftetgen1.4.3%2Ftetgen.h) (optional)
  * QT and OpenGL (for COLLADA support using VCGLIB)
 
 # Installation
